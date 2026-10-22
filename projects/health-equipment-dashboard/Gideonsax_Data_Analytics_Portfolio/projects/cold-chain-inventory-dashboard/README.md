@@ -13,7 +13,7 @@ This case study documents a Power BI dashboard designed to present cold-chain eq
 - Microsoft Power BI
 - Microsoft Excel
 
-## Dashboard features observed in the supplied screenshot
+## Dashboard features 
 - KPI cards for total CCE equipment, functional equipment, non-functional equipment, and not-installed equipment
 - State coverage indicator and total-state count
 - Geographic distribution map
@@ -21,9 +21,6 @@ This case study documents a Power BI dashboard designed to present cold-chain eq
 - Top-10 state visual
 - Equipment-type and functionality-status breakdown
 
-
-
-These are transcriptions of visible dashboard labels, not independently audited results. Confirm the page, active filters, reporting period, refresh date, and DAX measure definitions before treating them as final findings.
 
 ## Analytical approach
 1. Confirm the data grain.
@@ -33,9 +30,4 @@ These are transcriptions of visible dashboard labels, not independently audited 
 5. Record findings only where supported by the underlying data.
 6. Link recommendations to validated findings.
 
-## Findings and recommendations
-**Pending validation.** Add findings after checking the source model and publication permissions. Do not infer service impact from equipment counts alone.
-
-## Limitations
-This initial case study is based on a dashboard screenshot. The underlying data, reporting period, refresh history, calculation logic, and filters have not been independently audited for this public portfolio.
-
+#
