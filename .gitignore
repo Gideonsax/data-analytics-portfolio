@@ -1,0 +1,9 @@
+# Temporary and local files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Do not add confidential data to GitHub.
+# Review every file before committing it.
