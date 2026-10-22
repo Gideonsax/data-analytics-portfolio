@@ -46,5 +46,3 @@ These are transcriptions of visible dashboard labels, not independently audited 
 ## Limitations
 This initial case study is based on a dashboard screenshot. The underlying data, reporting period, refresh history, calculation logic, and filters have not been independently audited for this public portfolio.
 
-## Data protection
-Do not publish the source PBIX, source spreadsheets, facility-level identifiers, or restricted government information without explicit authorisation. Use approved, sanitised screenshots or a synthetic demonstration instead.
