@@ -21,26 +21,10 @@ This separate Power BI dashboard view focuses on cold-chain equipment functional
 - Equipment age-band visual
 - State-level table
 
-## Initial screenshot observations
-The supplied screenshot displays:
-- Equipped sites: **1,810**
-- Assessed sites: **1,815**
-- Functionality rate: **0.00%**
-- Installed capacity label: **492,367 L** (as displayed; verify the exact unit and measure)
-- A separate headline count of **2,836** is visible; its measure and filter context need confirmation.
 
-These are preliminary screenshot transcriptions. They are not final findings until report filters, model definitions, and measures have been checked.
 
-## Validation priorities
-1. Confirm active page and visual-level filters.
-2. Inspect the DAX measure used by the Functionality Rate card.
-3. Confirm numerator, denominator, and treatment of blank statuses.
-4. Verify the capacity measure and exact unit.
-5. Record the reporting period and refresh date.
-6. Check that cards and visuals respond to intended filters.
 
-## Findings
-**Pending validation.** Do not interpret a displayed 0.00% rate as a true programme result until the calculation and filter context are verified.
+
 
 ## Potential operational uses
 Once measures are validated, this view may help users identify records requiring status verification, review equipment-age patterns, and monitor capacity indicators.
