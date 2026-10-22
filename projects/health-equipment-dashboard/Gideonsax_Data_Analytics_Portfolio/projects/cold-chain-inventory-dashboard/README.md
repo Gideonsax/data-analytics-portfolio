@@ -21,14 +21,7 @@ This case study documents a Power BI dashboard designed to present cold-chain eq
 - Top-10 state visual
 - Equipment-type and functionality-status breakdown
 
-## Initial screenshot observations
-The screenshot visibly displays:
-- Total CCE equipment: **23,009**
-- Functional CCE: **13,097**
-- Non-functional CCE: **2,842**
-- Not installed: **3**
-- State coverage: **69.3%**
-- Total states: **37**
+
 
 These are transcriptions of visible dashboard labels, not independently audited results. Confirm the page, active filters, reporting period, refresh date, and DAX measure definitions before treating them as final findings.
 
