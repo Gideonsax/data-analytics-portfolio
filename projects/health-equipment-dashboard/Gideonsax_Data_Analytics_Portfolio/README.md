@@ -40,7 +40,7 @@ This public repository should contain only approved screenshots, non-confidentia
 ## Contact
 - **Name:** Gideon Areola
 - **GitHub:** [Gideonsax](https://github.com/Gideonsax)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add a professional contact email
+- **LinkedIn:** https://www.linkedin.com/in/gideon-areola-8700b1297/
+- **Email:** gideonareola@gmail.com
 
 *Portfolio in progress. Findings will be updated after validation and confirmation of publication permissions.*
