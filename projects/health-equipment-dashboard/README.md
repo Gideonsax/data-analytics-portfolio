@@ -34,8 +34,6 @@ Developed a Power BI dashboard concept for analysing cold-chain equipment (CCE) 
 
 **Business value:** Helps programme teams interpret equipment status, identify operational gaps, and prioritise follow-up activities.
 
-**Project folder:** `projects/health-equipment-dashboard/`
-
 **Status:** Dashboard development and documentation.
 
 ---
@@ -58,8 +56,6 @@ Developed a data-matching workflow to reconcile ward records across health and a
 
 **Business value:** Supports more consistent geographic identifiers, improves data integration, and reduces the burden of manual record reconciliation.
 
-**Project folder:** `projects/health-data-quality/`
-
 **Status:** Prototype developed; documentation and portfolio-ready outputs in progress.
 
 ---
@@ -81,7 +77,6 @@ This case study draws on my experience supporting data-related activities in dev
 
 **Business value:** Reliable beneficiary data supports more accurate reporting, stronger accountability, and better-informed programme decisions.
 
-**Project folder:** `projects/beneficiary-data-quality/`
 
 **Status:** Portfolio case study to be documented using synthetic or authorised anonymised data.
 
@@ -104,7 +99,7 @@ This project highlights practical experience collecting and organising field dat
 
 **Business value:** Improves the usability of field data and helps programme teams monitor activities using structured evidence.
 
-**Project folder:** `projects/field-data-analysis/`
+**Project folder:** `https://drive.google.com/drive/folders/1eVndRr8LANppic5T1CjxmdeBStnoXN2z?usp=drive_link`
 
 **Status:** Case study documentation in progress.
 
@@ -127,7 +122,7 @@ This research project focuses on the influence of temperature stress, particular
 
 **Business value:** Demonstrates the application of quantitative analysis and scientific visualisation to experimental research.
 
-**Project folder:** `projects/rice-cold-stress-research/`
+**Project folder:** `https://drive.google.com/drive/folders/1eVndRr8LANppic5T1CjxmdeBStnoXN2z?usp=drive_link`
 
 **Status:** Research analysis and reporting.
 
